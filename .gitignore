@@ -177,5 +177,5 @@ __pycache__/
 qdrant_storage/
 
 # Ignore any *.dbs files or .dbs directory
-*.dbs
-.dbs/
+*.db
+.db/
