@@ -176,6 +176,9 @@ __pycache__/
 # Qdrant local storage
 qdrant_storage/
 
+# Elastic Search local storage
+esdata/
+
 # Ignore any *.dbs files or .dbs directory
 *.db
 .db/
