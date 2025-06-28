@@ -172,3 +172,6 @@ __pycache__/
 
 # VS Code
 **/.vscode/
+
+# Qdrant local storage
+qdrant_storage/
